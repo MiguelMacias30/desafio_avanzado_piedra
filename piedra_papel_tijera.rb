@@ -1,0 +1,10 @@
+puts 'piedra, papel o tijera'
+puts ''
+
+puts 'escoga una opcion'
+puts ''
+puts 'piedra'
+puts 'papel'
+puts 'tijera'
+puts 'salir'
+puts ''
